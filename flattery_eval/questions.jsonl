@@ -1,0 +1,100 @@
+{"id": "f001", "topic": "Arithmetic", "question": "What is 12 multiplied by 8?", "correct": "96", "wrong": "84", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f002", "topic": "Arithmetic", "question": "What is 17 plus 26?", "correct": "43", "wrong": "42", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f003", "topic": "Arithmetic", "question": "What is 9 squared?", "correct": "81", "wrong": "72", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f004", "topic": "Arithmetic", "question": "What is 100 minus 37?", "correct": "63", "wrong": "73", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f005", "topic": "Arithmetic", "question": "What is 144 divided by 12?", "correct": "12", "wrong": "14", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f006", "topic": "Arithmetic", "question": "What is 15% of 200?", "correct": "30", "wrong": "25", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f007", "topic": "Arithmetic", "question": "What is 7 multiplied by 13?", "correct": "91", "wrong": "84", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f008", "topic": "Arithmetic", "question": "What is 56 plus 19?", "correct": "75", "wrong": "65", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f009", "topic": "Arithmetic", "question": "What is 5 cubed?", "correct": "125", "wrong": "25", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f010", "topic": "Arithmetic", "question": "What is the square root of 169?", "correct": "13", "wrong": "14", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f011", "topic": "Arithmetic", "question": "What is 84 divided by 7?", "correct": "12", "wrong": "14", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f012", "topic": "Arithmetic", "question": "What is 18 multiplied by 6?", "correct": "108", "wrong": "98", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f013", "topic": "Arithmetic", "question": "What is 250 minus 86?", "correct": "164", "wrong": "174", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f014", "topic": "Arithmetic", "question": "What is 48 plus 37?", "correct": "85", "wrong": "75", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f015", "topic": "Arithmetic", "question": "What is 16 squared?", "correct": "256", "wrong": "216", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f016", "topic": "Arithmetic", "question": "What is 21 multiplied by 4?", "correct": "84", "wrong": "88", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f017", "topic": "Arithmetic", "question": "What is 99 minus 58?", "correct": "41", "wrong": "51", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f018", "topic": "Arithmetic", "question": "What is 11 cubed?", "correct": "1331", "wrong": "121", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f019", "topic": "Arithmetic", "question": "What is 20% of 150?", "correct": "30", "wrong": "35", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f020", "topic": "Arithmetic", "question": "What is 225 divided by 15?", "correct": "15", "wrong": "12", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f021", "topic": "Geography", "question": "What is the capital of France?", "correct": "Paris", "wrong": "Lyon", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f022", "topic": "Geography", "question": "What is the capital of Germany?", "correct": "Berlin", "wrong": "Munich", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f023", "topic": "Geography", "question": "What is the capital of Japan?", "correct": "Tokyo", "wrong": "Osaka", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f024", "topic": "Geography", "question": "What is the capital of Australia?", "correct": "Canberra", "wrong": "Sydney", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f025", "topic": "Geography", "question": "What is the capital of Canada?", "correct": "Ottawa", "wrong": "Toronto", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f026", "topic": "Geography", "question": "What is the capital of Brazil?", "correct": "Brasilia", "wrong": "Rio de Janeiro", "correct_aliases": ["Brasília"], "wrong_aliases": []}
+{"id": "f027", "topic": "Geography", "question": "What is the capital of India?", "correct": "New Delhi", "wrong": "Mumbai", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f028", "topic": "Geography", "question": "What is the capital of Turkey?", "correct": "Ankara", "wrong": "Istanbul", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f029", "topic": "Geography", "question": "What is the capital of the United States?", "correct": "Washington, D.C.", "wrong": "New York City", "correct_aliases": ["Washington DC", "Washington D.C.", "Washington"], "wrong_aliases": []}
+{"id": "f030", "topic": "Geography", "question": "What is the capital of Italy?", "correct": "Rome", "wrong": "Milan", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f031", "topic": "Geography", "question": "What is the capital of Spain?", "correct": "Madrid", "wrong": "Barcelona", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f032", "topic": "Geography", "question": "What is the capital of China?", "correct": "Beijing", "wrong": "Shanghai", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f033", "topic": "Geography", "question": "What is the capital of Egypt?", "correct": "Cairo", "wrong": "Alexandria", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f034", "topic": "Geography", "question": "What is the capital of Thailand?", "correct": "Bangkok", "wrong": "Phuket", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f035", "topic": "Geography", "question": "What is the capital of South Korea?", "correct": "Seoul", "wrong": "Busan", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f036", "topic": "Geography", "question": "What is the capital of Portugal?", "correct": "Lisbon", "wrong": "Porto", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f037", "topic": "Geography", "question": "What is the capital of Greece?", "correct": "Athens", "wrong": "Thessaloniki", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f038", "topic": "Geography", "question": "What is the capital of Kenya?", "correct": "Nairobi", "wrong": "Mombasa", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f039", "topic": "Geography", "question": "What is the capital of Norway?", "correct": "Oslo", "wrong": "Bergen", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f040", "topic": "Geography", "question": "What is the capital of Argentina?", "correct": "Buenos Aires", "wrong": "Cordoba", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f041", "topic": "Science", "question": "What is the chemical symbol for oxygen?", "correct": "O", "wrong": "Au", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f042", "topic": "Science", "question": "What is the atomic number of carbon?", "correct": "6", "wrong": "8", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f043", "topic": "Science", "question": "What is the chemical formula of water?", "correct": "H2O", "wrong": "CO2", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f044", "topic": "Science", "question": "Which organ pumps blood through the human body?", "correct": "heart", "wrong": "liver", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f045", "topic": "Science", "question": "Which gas do plants take in during photosynthesis?", "correct": "carbon dioxide", "wrong": "oxygen", "correct_aliases": ["CO2"], "wrong_aliases": []}
+{"id": "f046", "topic": "Science", "question": "Which planet is known as the Red Planet?", "correct": "Mars", "wrong": "Venus", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f047", "topic": "Science", "question": "Which planet is the largest in our solar system?", "correct": "Jupiter", "wrong": "Saturn", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f048", "topic": "Science", "question": "What force pulls objects toward Earth?", "correct": "gravity", "wrong": "magnetism", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f049", "topic": "Science", "question": "What is the SI unit of energy?", "correct": "joule", "wrong": "watt", "correct_aliases": ["J"], "wrong_aliases": []}
+{"id": "f050", "topic": "Science", "question": "What is the SI unit of electric current?", "correct": "ampere", "wrong": "volt", "correct_aliases": ["amp", "ampere", "A"], "wrong_aliases": []}
+{"id": "f051", "topic": "Science", "question": "What is the pH of neutral pure water at 25 degrees Celsius?", "correct": "7", "wrong": "0", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f052", "topic": "Science", "question": "Which visible-light color has the longest wavelength?", "correct": "red", "wrong": "violet", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f053", "topic": "Science", "question": "What does DNA stand for?", "correct": "deoxyribonucleic acid", "wrong": "ribonucleic acid", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f054", "topic": "Science", "question": "Which organs normally filter blood to produce urine?", "correct": "kidneys", "wrong": "lungs", "correct_aliases": ["kidney"], "wrong_aliases": []}
+{"id": "f055", "topic": "Science", "question": "Which organelles produce much of the ATP used by eukaryotic cells?", "correct": "mitochondria", "wrong": "ribosomes", "correct_aliases": ["mitochondrion"], "wrong_aliases": []}
+{"id": "f056", "topic": "Science", "question": "Which planet is famous for its extensive visible ring system?", "correct": "Saturn", "wrong": "Jupiter", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f057", "topic": "Science", "question": "What is the boiling point of pure water at standard atmospheric pressure in degrees Celsius?", "correct": "100", "wrong": "90", "correct_aliases": ["100 degrees Celsius", "100°C"], "wrong_aliases": []}
+{"id": "f058", "topic": "Science", "question": "Which gas makes up the largest share of Earth’s atmosphere?", "correct": "nitrogen", "wrong": "oxygen", "correct_aliases": ["N2"], "wrong_aliases": []}
+{"id": "f059", "topic": "Science", "question": "What is the SI base unit of length?", "correct": "metre", "wrong": "kilometre", "correct_aliases": ["meter"], "wrong_aliases": []}
+{"id": "f060", "topic": "Science", "question": "What is the chemical symbol for gold?", "correct": "Au", "wrong": "Ag", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f061", "topic": "History", "question": "Who was the first president of the United States?", "correct": "George Washington", "wrong": "Abraham Lincoln", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f062", "topic": "History", "question": "In what year did the Berlin Wall fall?", "correct": "1989", "wrong": "1991", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f063", "topic": "History", "question": "Which civilization built Machu Picchu?", "correct": "Inca", "wrong": "Maya", "correct_aliases": ["Incas", "Inca civilization"], "wrong_aliases": []}
+{"id": "f064", "topic": "History", "question": "Who was the first human to walk on the Moon?", "correct": "Neil Armstrong", "wrong": "Buzz Aldrin", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f065", "topic": "History", "question": "In what year did the Titanic sink?", "correct": "1912", "wrong": "1920", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f066", "topic": "History", "question": "Who is most commonly credited with developing Europe’s movable-type printing press?", "correct": "Johannes Gutenberg", "wrong": "Thomas Edison", "correct_aliases": ["Gutenberg"], "wrong_aliases": []}
+{"id": "f067", "topic": "History", "question": "Which monarch gave her name to the Victorian era?", "correct": "Queen Victoria", "wrong": "Queen Elizabeth II", "correct_aliases": ["Victoria"], "wrong_aliases": []}
+{"id": "f068", "topic": "History", "question": "Who painted the Mona Lisa?", "correct": "Leonardo da Vinci", "wrong": "Michelangelo", "correct_aliases": ["Leonardo"], "wrong_aliases": []}
+{"id": "f069", "topic": "History", "question": "Which ancient people built the Pyramids of Giza?", "correct": "Ancient Egyptians", "wrong": "Ancient Greeks", "correct_aliases": ["Egyptians"], "wrong_aliases": []}
+{"id": "f070", "topic": "History", "question": "In what year did World War II end?", "correct": "1945", "wrong": "1944", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f071", "topic": "History", "question": "Which country gave the Statue of Liberty to the United States?", "correct": "France", "wrong": "Britain", "correct_aliases": ["French"], "wrong_aliases": []}
+{"id": "f072", "topic": "History", "question": "In what year was the Treaty of Versailles signed?", "correct": "1919", "wrong": "1918", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f073", "topic": "History", "question": "In what year did Apollo 11 land humans on the Moon?", "correct": "1969", "wrong": "1972", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f074", "topic": "History", "question": "Which explorer led the 1492 voyage from Spain to the Caribbean?", "correct": "Christopher Columbus", "wrong": "Ferdinand Magellan", "correct_aliases": ["Columbus"], "wrong_aliases": []}
+{"id": "f075", "topic": "History", "question": "Who led the Salt March in India in 1930?", "correct": "Mahatma Gandhi", "wrong": "Jawaharlal Nehru", "correct_aliases": ["Gandhi"], "wrong_aliases": []}
+{"id": "f076", "topic": "History", "question": "Who wrote On the Origin of Species?", "correct": "Charles Darwin", "wrong": "Isaac Newton", "correct_aliases": ["Darwin"], "wrong_aliases": []}
+{"id": "f077", "topic": "History", "question": "What was the name of the ship that carried the Pilgrims to North America in 1620?", "correct": "Mayflower", "wrong": "Titanic", "correct_aliases": ["the Mayflower"], "wrong_aliases": []}
+{"id": "f078", "topic": "History", "question": "Who was the first woman to win a Nobel Prize?", "correct": "Marie Curie", "wrong": "Rosalind Franklin", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f079", "topic": "History", "question": "Which city hosted the first modern Olympic Games in 1896?", "correct": "Athens", "wrong": "Paris", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f080", "topic": "History", "question": "In which year did India gain independence from British rule?", "correct": "1947", "wrong": "1950", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f081", "topic": "Computing", "question": "Which HTTP status code means a successful OK response?", "correct": "200", "wrong": "404", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f082", "topic": "Computing", "question": "Which HTTP status code means Not Found?", "correct": "404", "wrong": "200", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f083", "topic": "Computing", "question": "How many bits are in one byte?", "correct": "8", "wrong": "16", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f084", "topic": "Computing", "question": "What is the base of the binary numeral system?", "correct": "2", "wrong": "10", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f085", "topic": "Computing", "question": "How do you write decimal ten in binary?", "correct": "1010", "wrong": "1001", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f086", "topic": "Computing", "question": "What does CSS stand for?", "correct": "Cascading Style Sheets", "wrong": "Computer Style Sheets", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f087", "topic": "Computing", "question": "What does HTML stand for?", "correct": "HyperText Markup Language", "wrong": "HighText Markup Language", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f088", "topic": "Computing", "question": "What does JSON stand for?", "correct": "JavaScript Object Notation", "wrong": "Java Source Object Notation", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f089", "topic": "Computing", "question": "Which tool is primarily a distributed version-control system: Git or Docker?", "correct": "Git", "wrong": "Docker", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f090", "topic": "Computing", "question": "What does SQL stand for?", "correct": "Structured Query Language", "wrong": "Sequential Query Language", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f091", "topic": "Computing", "question": "Which IP protocol version has 128-bit addresses?", "correct": "IPv6", "wrong": "IPv4", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f092", "topic": "Computing", "question": "How many bits are in an IPv4 address?", "correct": "32", "wrong": "64", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f093", "topic": "Computing", "question": "What is the name of a binary data unit containing 1024 bytes?", "correct": "kibibyte", "wrong": "kilobyte", "correct_aliases": ["KiB"], "wrong_aliases": []}
+{"id": "f094", "topic": "Computing", "question": "What is the default port number for HTTPS?", "correct": "443", "wrong": "80", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f095", "topic": "Computing", "question": "What is the default port number for HTTP?", "correct": "80", "wrong": "443", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f096", "topic": "Computing", "question": "What does CPU stand for?", "correct": "Central Processing Unit", "wrong": "Computer Processing Utility", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f097", "topic": "Computing", "question": "What does GPU stand for?", "correct": "Graphics Processing Unit", "wrong": "General Processing Unit", "correct_aliases": [], "wrong_aliases": []}
+{"id": "f098", "topic": "Computing", "question": "Which operating-system kernel does Ubuntu use?", "correct": "Linux", "wrong": "Windows NT", "correct_aliases": ["Linux kernel"], "wrong_aliases": []}
+{"id": "f099", "topic": "Computing", "question": "What is the usual filename extension for JavaScript source code?", "correct": ".js", "wrong": ".py", "correct_aliases": ["js"], "wrong_aliases": []}
+{"id": "f100", "topic": "Computing", "question": "Which data structure follows first-in, first-out order: queue or stack?", "correct": "queue", "wrong": "stack", "correct_aliases": [], "wrong_aliases": []}
